@@ -1,0 +1,4 @@
+To check the version of angular cli
+1:First, open command prompt in windows or terminal in MacOS
+2:Now type ng --version
+#:Then it will display the version of the angular cli installed.
