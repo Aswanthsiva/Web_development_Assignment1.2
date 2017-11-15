@@ -1,0 +1,5 @@
+To install Angular CLI:
+1:Check whether node and npm are installed.
+2:Open command prompt in windows or terminal in MacOS.
+3:Type npm install -g @angular/cli.
+4:After its installed it will show the version of angular cli.
