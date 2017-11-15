@@ -1,0 +1,12 @@
+To create a project in angular cli
+1:install angular cli
+2:Open command prompt in windows or terminal in MacOS
+3:Type cd Desktop.
+4:Type ng new ProjectName.
+
+
+To Run the project
+1:Goto the project folder.
+2:Type np serve
+3:Open a browser
+4:type http://localhost:4200/
